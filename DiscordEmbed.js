@@ -39,6 +39,12 @@ async function handleRequest(request) {
   <meta property="twitter:card" content="summary_large_image">
 
   <meta name="twitter:image" content="${url.toString()}">
+  
+  <meta name="twitter:player" content="${request.url}">
+  
+  <meta name="twitter:player:height" content="360">
+
+  <meta name="twitter:player:width" content="640">
 
 </head>
 

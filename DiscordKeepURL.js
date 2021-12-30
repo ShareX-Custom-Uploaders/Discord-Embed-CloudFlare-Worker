@@ -15,9 +15,9 @@ async function handleRequest(request) {
 
   <meta name="twitter:player" content="${request.url}">
 
-<meta name="twitter:player:height" content="360">
+  <meta name="twitter:player:height" content="360">
 
-<meta name="twitter:player:width" content="640">
+  <meta name="twitter:player:width" content="640">
 
 </head>
 
